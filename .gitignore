@@ -1,0 +1,46 @@
+built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+/gradlew
+/gradlew.bat
+/gradle
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+gen
+out
+
+# Android Studio
+gradle.properties
+*.iml
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+gradle-wrapper.properties
+# Gradle builds
+build/
+
+#NDK
+obj/
+
+node_modules/
