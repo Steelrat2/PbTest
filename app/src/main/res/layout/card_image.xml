@@ -11,7 +11,7 @@
         android:layout_centerInParent="true"
         android:background="@android:color/transparent"
         android:indeterminate="true"
-        android:indeterminateTint="#1aa5d3"/>
+        android:indeterminateTint="@color/blueLight"/>
 
     <ImageView
         android:id="@+id/posterImageView"
