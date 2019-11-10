@@ -31,7 +31,6 @@ gen
 out
 
 # Android Studio
-gradle.properties
 *.iml
 .idea
 #.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
